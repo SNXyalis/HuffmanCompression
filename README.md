@@ -1,2 +1,2 @@
 # HuffmanCompression
-A project for the subject of data structures.
+This projects analyzes 3 using Huffman Coding to create a compressor according to that algorithm.
